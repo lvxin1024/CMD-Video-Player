@@ -1,5 +1,5 @@
 //
-//  vedio-player.hpp
+//  video-player.hpp
 //  CMD-Video-Player
 //
 //  Created by Robert He on 2024/9/2.
